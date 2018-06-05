@@ -1,0 +1,1 @@
+hi  this is the program to check the git status
